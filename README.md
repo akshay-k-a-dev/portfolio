@@ -20,7 +20,7 @@ The purpose of this website is to:
 
 ## Live Demo
 
-Check out the live demo of the portfolio website [here](https://github.com/akshay-k-a-dev/portfolio).
+Check out the live demo of the portfolio website [here]([https://github.com/akshay-k-a-dev/portfolio](https://akshay-k-a-dev.github.io/portfolio/)).
 
 ## License
 
